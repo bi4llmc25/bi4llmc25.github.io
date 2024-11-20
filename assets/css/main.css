@@ -3234,7 +3234,7 @@ table.alt tbody tr td {
 #header.alt {
 	padding: 7em 5em 4em 5em;
 	background:
-		linear-gradient(rgba(0, 0, 0, 0.5),
+		linear-gradient(rgba(187,114, 41, 0.5),
 			rgba(0, 0, 0, 0.5)),
 		url(./images/trondheim-norway.jpg) no-repeat 0 100%;
 	background-size: cover;
