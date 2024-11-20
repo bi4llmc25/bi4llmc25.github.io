@@ -3145,13 +3145,13 @@ table.alt tbody tr td {
 	display: inline-block;
 	margin-left: 4em;
 	padding: 0.65em;
-	border-radius: 5px%;
+	border-radius: 5px;
 	border: solid 1px;
 }
 
 .spotlight .image img {
 	display: block;
-	border-radius: 5px%;
+	border-radius: 5px;
 	width: 16em;
 }
 
